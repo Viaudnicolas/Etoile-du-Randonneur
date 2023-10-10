@@ -1,0 +1,47 @@
+body {
+    height: 96vh;
+
+    color: #7A881E;
+    background-size: cover;
+    background-image: url(../IMAGES/1_bord-de-mer.jpg);
+
+}
+
+main {
+
+    line-height: 1.5;
+}
+
+.etoile {
+    margin-top: 2rem;
+    margin-left: 5rem;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.chaumes {
+    display: block;
+    text-align: center;
+    margin-top: 5rem;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.enter {
+    display: block;
+    text-align: center;
+    margin-top: 5rem;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.description {
+    margin: 10px;
+    position: absolute;
+    bottom: 2.5rem;
+    text-align: center;
+    color: white;
+    font-size: 1.3rem;
+
+
+}
